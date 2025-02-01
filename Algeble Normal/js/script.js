@@ -95,7 +95,7 @@ function flick() {
       document.getElementById("c"+String(i)).textContent = "?"
       document.getElementById("c"+String(i)).style.color = "white"
     }
-    document.getElementById("c8").textContent = "5"
+    document.getElementById("c8").textContent = "6"
     document.getElementById("c9").textContent = "7"
     document.getElementById("c10").textContent = "9"
     show = false
